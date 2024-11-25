@@ -11,6 +11,5 @@ kv_namespaces = [
 enabled = true
 
 [vars]
-STRIPE_SECRET_KEY = "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"
-STRIPE_WEBHOOK_SECRET = "whsec_l3RSHhad9Mbyqkz6Uqzty0zF7tLxvWpf"
+
  
