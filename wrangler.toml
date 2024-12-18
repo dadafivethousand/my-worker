@@ -10,6 +10,7 @@ kv_namespaces = [
 [observability]
 enabled = true
 
-[vars]
-
  
+
+[triggers]
+crons = ["0 0 * * *"] # Runs daily at midnight UTC
